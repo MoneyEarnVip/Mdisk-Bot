@@ -33,7 +33,7 @@ async def remote_upload(bot, message):
         
         url = mdisk
         await message.reply_text(
-            text=f"**Video Link:** `{url}`\n\n This Code is made by @HeimanSupports.",
+            text=f"**Video Link:** `{url}`\n\n This Code is made by @HeimanSuppots.",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton('Doodstream', url=url)]]
             )
