@@ -21,7 +21,7 @@ Hi {}!
         
 This Is MDisk Bot For Free 😇
 Read /help Carefully & Do Follow All Given Instruction...
-For More Bots Join @HeimanSupports
+For More Bots Join @TamilanXBots
 """
 
 HELP = """
@@ -46,8 +46,8 @@ START_BUTTONS = InlineKeyboardMarkup(
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📮 Update 📮', url='https://telegram.dog/HeimanSupports/'),
-        InlineKeyboardButton('🛠️ Support 🛠️', url='https://telegram.dog/HeimanSupport/'),
+        InlineKeyboardButton('📮 Update 📮', url='https://telegram.dog/tamilanxbots/'),
+        InlineKeyboardButton('🛠️ Support 🛠️', url='https://telegram.dog/tamilanxbots/'),
         ],[
         InlineKeyboardButton('Home', callback_data='home'),
         InlineKeyboardButton('Close', callback_data='close')
